@@ -1,0 +1,86 @@
+version: 3
+created_by: 
+domain: 
+seed_examples:
+  - context: |
+      
+    questions_and_answers:
+      - question: |
+          
+        answer: |
+          
+      - question: |
+          
+        answer: |
+          
+      - question: |
+          
+        answer: |
+          
+  - context: |
+      
+    questions_and_answers:
+      - question: |
+          
+        answer: |
+          
+      - question: |
+          
+        answer: |
+          
+      - question: |
+          
+        answer: |
+          
+  - context: |
+      
+    questions_and_answers:
+      - question: |
+          
+        answer: |
+          
+      - question: |
+          
+        answer: |
+          
+      - question: |
+          
+        answer: |
+          
+  - context: |
+      
+    questions_and_answers:
+      - question: |
+          
+        answer: |
+          
+      - question: |
+          
+        answer: |
+          
+      - question: |
+          
+        answer: |
+          
+  - context: |
+      
+    questions_and_answers:
+      - question: |
+          
+        answer: |
+          
+      - question: |
+          
+        answer: |
+          
+      - question: |
+          
+        answer: |
+          
+document_outline: |
+  
+document:
+  repo: 
+  commit: 
+  patterns:
+    - file_name.md
